@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FetDoctor</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="menu_FloatView">浮動視窗</string>
+    <string name="menu_aboutMe">關於我</string>
+    <string name="contactMe">聯絡我</string>
+    <string name="about_Me_sub">這是LyonHsu 使用kotlin製作的記帳本 App！</string>
+    <string name="help">幫助</string>
+    <string name="menu_score">評分</string>
+    <string name="no_brows">你沒有安裝應用市場或瀏覽器</string>
+    <string name="premission_floatview_success">權限授予成功！ </string>
+    <string name="premission_floatview_fail">"權限授與失敗，無法開啟浮動視窗"</string>
+    <string name="net_overtime">Lyon stock 網絡請求超時，請重試！ </string>
+    <string name="server_error">Lyon stock 服務器異常</string>
+    <string name="check_network">Lyon stock 請檢查網絡</string>
+    <string name="data_fail">Lyon stock 數據格式錯誤，請重試！ </string>
+    <string name="RedirectError"> Lyon stock RedirectError 數據格式錯誤</string>
+    <string name="AuthFailureError">Lyon stock AuthFailureError 錯誤</string>
+</resources>
