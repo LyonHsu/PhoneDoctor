@@ -74,7 +74,7 @@ class ScreenTouchActivity :BaseActivity(){
             if(timeDown<=0){
                 val i= adapter.getTouchSize()
                 Toast.makeText(context,"有"+i+"個觸控有問題！！",Toast.LENGTH_LONG).show()
-
+                time.isClickable=true
 
             }else{
                 callRunnable()
